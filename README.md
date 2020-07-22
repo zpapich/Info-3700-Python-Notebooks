@@ -1,2 +1,2 @@
-# Info-3700-Python-Notebooks
- Jupyter Notebooks analyzing Clinical Data
+# Python-Notebooks
+ Jupyter Notebook analyzing Clinical Data on dementia as part of a final project.
